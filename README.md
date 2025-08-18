@@ -75,7 +75,7 @@ Para obtener el máximo rendimiento:
 1. Usa Python 3.10+ (mejor optimizado)
 2. Ejecuta en Linux con `taskset` para affinity de CPU
 3. Ajusta `BUFFER_SIZE` según tu tamaño promedio de mensajes
-4. Considera reescribir en Rust para ganar un 10-20% más de performance
+
 
 
 ## 📄 Licencia
